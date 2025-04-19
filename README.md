@@ -4,7 +4,7 @@
 
 ## How ?
 
-- Register here using new wallet: [https://taker.xyz](https://earn.taker.xyz?start=8KZPY)
+- Register here using new wallet: [https://taker.xyz](https://earn.taker.xyz?start=HZHGW1LS)
 - Bind your X/Twitter otherwise you can't start mining
 - Wait till you get faucet reward (0.001 TAKER) to start using bot
 
