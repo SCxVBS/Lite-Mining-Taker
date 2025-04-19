@@ -1,6 +1,18 @@
 [
-    {
-      "address": "0x75a8e152Ffea519bE15289DFFc0ebC2aC89a02a8",
-      "privateKey": "3c5b7c76a61297f6c542b67d85d4ae20838f6e64c32caa868179b2f07ed6b981"
-    }
+  {
+    "address": "address-1",
+    "privateKey": "privatekey-1"
+  },
+  {
+    "address": "address-2",
+    "privateKey": "privatekey-2"
+  },
+  {
+    "address": "address-3",
+    "privateKey": "privatekey-3"
+  },
+  {
+    "address": "address-4",
+    "privateKey": "privatekey-4"
+  }
 ]
